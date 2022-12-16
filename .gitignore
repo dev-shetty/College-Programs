@@ -1,2 +1,7 @@
+# For C/C++
 *.exe
+# For Java
+*.class
+
+# General
 .vscode
