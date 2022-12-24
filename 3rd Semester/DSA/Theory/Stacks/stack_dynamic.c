@@ -81,7 +81,7 @@ void peek() {
 void main() {
     int choice;
     while (1) {
-        printf("\n******** QUEUE OPERATIONS ********\n");
+        printf("\n******** STACK OPERATIONS ********\n");
         printf("1. CREATE STACK \n");
         printf("2. PUSH \n");
         printf("3. POP \n");

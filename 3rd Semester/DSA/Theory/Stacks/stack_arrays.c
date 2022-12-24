@@ -43,7 +43,7 @@ void display() {
 void main() {
     int choice;
     while (1) {
-        printf("\n******** QUEUE OPERATIONS ********\n");
+        printf("\n******** STACK OPERATIONS ********\n");
         printf("1. PUSH \n");
         printf("2. POP \n");
         printf("3. DISPLAY \n");
